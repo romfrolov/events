@@ -9,4 +9,4 @@
 * Decagon (coming soon)
 
 * Eduhub Community (coming soon)
- * [Slides](https://docs.google.com/presentation/d/1CLkcx-polvHxJP5cENSq-mzEuwvQzJyv593d2_r7xng/edit?usp=sharing)
+   * [Slides](https://docs.google.com/presentation/d/1CLkcx-polvHxJP5cENSq-mzEuwvQzJyv593d2_r7xng/edit?usp=sharing)
