@@ -1,4 +1,4 @@
-# Talks
+# Roman's Talks
 
 * Digie Crew (link)
 * Rush Hour podcast (coming soon)
