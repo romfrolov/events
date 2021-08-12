@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+    <img width="200" alt="avatar-rounded" src="https://user-images.githubusercontent.com/23285565/129185960-8d848656-5912-4967-a60b-1f64f685da7d.png">
+</p>
+
 # Events with Roman
 
 * Digie Crew (link)
