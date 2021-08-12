@@ -8,6 +8,7 @@
     * [IG Live](https://www.instagram.com/p/CSCJhn8HEnI/)
 * Rush Hour podcast (coming soon)
 * Xd Hacks Mini Vancouver hackathon workshop (coming soon)
+    * [Slides](https://docs.google.com/presentation/d/1lrt8jmGw7ypb9d_uheHGDTG3zYw8-7oVQcwyOnLI498/edit?usp=sharing)
 * Decagon (coming soon)
 * Eduhub Community
     * [Slides](https://docs.google.com/presentation/d/1CLkcx-polvHxJP5cENSq-mzEuwvQzJyv593d2_r7xng/edit?usp=sharing)
