@@ -9,6 +9,6 @@
 * Rush Hour podcast (coming soon)
 * Xd Hacks Mini Vancouver hackathon workshop (coming soon)
 * Decagon (coming soon)
-* Eduhub Community (coming soon)
+* Eduhub Community
     * [Slides](https://docs.google.com/presentation/d/1CLkcx-polvHxJP5cENSq-mzEuwvQzJyv593d2_r7xng/edit?usp=sharing)
     * [YouTube Live](https://www.youtube.com/watch?v=h5FjL2A4usE)
