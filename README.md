@@ -1,4 +1,4 @@
-# Roman's Talks
+# Events where Roman has participated
 
 * Digie Crew (link)
 * Rush Hour podcast (coming soon)
