@@ -5,14 +5,15 @@
 # Events with Roman
 
 * Digie Crew
-    * [Video](https://www.instagram.com/p/CSCJhn8HEnI/)
+    * [Instagram](https://www.instagram.com/p/CSCJhn8HEnI/)
 * Rush Hour podcast (coming soon)
 * Xd Hacks Mini Vancouver hackathon workshop
-    * [Video](https://youtu.be/B3VQmvwHr9c)
+    * [YouTube](https://youtu.be/B3VQmvwHr9c)
     * [Slides](https://docs.google.com/presentation/d/1lrt8jmGw7ypb9d_uheHGDTG3zYw8-7oVQcwyOnLI498/edit?usp=sharing)
 * Decagon
-    * [Video](https://youtu.be/ae11fgccaWg)
+    * [YouTube](https://youtu.be/ae11fgccaWg)
 * Eduhub Community
-    * [Video](https://www.youtube.com/watch?v=h5FjL2A4usE)
+    * [YouTube](https://www.youtube.com/watch?v=h5FjL2A4usE)
     * [Slides](https://docs.google.com/presentation/d/1CLkcx-polvHxJP5cENSq-mzEuwvQzJyv593d2_r7xng/edit?usp=sharing)
 * Ironhack (coming soon)
+    * [Spotify](https://open.spotify.com/episode/3XQDIjfuenwESk7A7n7Dpd?si=IgCEvFFDT6WnDAuldd7SYQ&dl_branch=1&nd=1) 
