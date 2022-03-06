@@ -17,3 +17,5 @@
     * [Slides](https://docs.google.com/presentation/d/1CLkcx-polvHxJP5cENSq-mzEuwvQzJyv593d2_r7xng/edit?usp=sharing)
 * Ironhack
     * [Spotify](https://open.spotify.com/episode/3XQDIjfuenwESk7A7n7Dpd?si=IgCEvFFDT6WnDAuldd7SYQ&dl_branch=1&nd=1) 
+* Verified Geek Podcast
+    * [Verified Geek](https://www.buzzsprout.com/1522516/10108135)
