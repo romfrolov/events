@@ -23,3 +23,5 @@
 * From Coffee Barista to Engineer Manager
     * [YouTube](https://youtu.be/CgpPpAqL_fE)
     * [Spotify](https://open.spotify.com/episode/0k3TNvhWR8DYXeDMuxfQhE?si=49a928dc08d545a8)
+* From waiter to developer to start-up founder (10X Developer Podcast)
+    * [Spotify](https://podcasters.spotify.com/pod/show/harley-ferguson9/episodes/From-waiter-to-developer-to-start-up-founder-with-Roman-Frolov-e2744nu)
