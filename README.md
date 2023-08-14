@@ -25,3 +25,5 @@
     * [Spotify](https://open.spotify.com/episode/0k3TNvhWR8DYXeDMuxfQhE?si=49a928dc08d545a8)
 * From waiter to developer to start-up founder (10X Developer Podcast)
     * [Spotify](https://podcasters.spotify.com/pod/show/harley-ferguson9/episodes/From-waiter-to-developer-to-start-up-founder-with-Roman-Frolov-e2744nu)
+* STARTS: Demystifying the Boundary Between STEM and the Arts
+    * [Spotify](https://podcasters.spotify.com/pod/show/findyourstart3/episodes/Roman-Frolov-From-Bar-tops-to-Laptops--A-Bartenders-Voyage-into-Software-Engineering-e27pn6c)
