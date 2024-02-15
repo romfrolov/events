@@ -32,4 +32,4 @@
 * Many ways to build great software - Interviewing Roman Frolov, Co-founder of Codesphere 
     * [YouTube](https://youtu.be/QFxx-nlakt8?si=GVau3ApZ0v98ZGVY)
 * Roman Frolov: Business Failure... Don't be a statistic
-    * [YouTube](https://youtu.be/3IfPOXe-Mnc?si=gVVQ4mFHvpAaq4Cu)https://youtu.be/3IfPOXe-Mnc?si=gVVQ4mFHvpAaq4Cu
+    * [YouTube](https://youtu.be/3IfPOXe-Mnc?si=gVVQ4mFHvpAaq4Cu)
