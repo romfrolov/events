@@ -29,3 +29,7 @@
     * [YouTube](https://youtu.be/sRVDNAmtYMA?si=GOr4XJXKNt0pvrA6)
 * STARTS: Demystifying the Boundary Between STEM and the Arts
     * [Spotify](https://podcasters.spotify.com/pod/show/findyourstart3/episodes/Roman-Frolov-From-Bar-tops-to-Laptops--A-Bartenders-Voyage-into-Software-Engineering-e27pn6c)
+* Many ways to build great software - Interviewing Roman Frolov, Co-founder of Codesphere 
+    * [YouTube](https://youtu.be/QFxx-nlakt8?si=GVau3ApZ0v98ZGVY)
+* Roman Frolov: Business Failure... Don't be a statistic
+    * [YouTube](https://youtu.be/3IfPOXe-Mnc?si=gVVQ4mFHvpAaq4Cu)https://youtu.be/3IfPOXe-Mnc?si=gVVQ4mFHvpAaq4Cu
