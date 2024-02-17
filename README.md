@@ -4,6 +4,8 @@
 
 # Events with Roman
 
+## 2022
+
 * Digie Crew
     * [Instagram](https://www.instagram.com/p/CSCJhn8HEnI/)
 * Xd Hacks Mini Vancouver hackathon workshop
@@ -20,6 +22,8 @@
     * [Verified Geek](https://www.buzzsprout.com/1522516/10108135)
 * How to pick the right tech stack (Codesphere)
     * [YouTube](https://youtu.be/mC9bbclrO3I)
+ 
+## 2023
 * From Coffee Barista to Engineer Manager
     * [YouTube](https://youtu.be/CgpPpAqL_fE)
     * [Spotify](https://open.spotify.com/episode/0k3TNvhWR8DYXeDMuxfQhE?si=49a928dc08d545a8)
@@ -29,6 +33,8 @@
     * [YouTube](https://youtu.be/sRVDNAmtYMA?si=GOr4XJXKNt0pvrA6)
 * STARTS: Demystifying the Boundary Between STEM and the Arts
     * [Spotify](https://podcasters.spotify.com/pod/show/findyourstart3/episodes/Roman-Frolov-From-Bar-tops-to-Laptops--A-Bartenders-Voyage-into-Software-Engineering-e27pn6c)
+ 
+## 2024
 * Many ways to build great software - Interviewing Roman Frolov, Co-founder of Codesphere 
     * [YouTube](https://youtu.be/QFxx-nlakt8?si=GVau3ApZ0v98ZGVY)
 * Roman Frolov: Business Failure... Don't be a statistic
